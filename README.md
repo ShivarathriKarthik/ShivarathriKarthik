@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShivarathriKarthik
-- 👀 To become an aspring skilled data analyst.
+- 👀 To become an aspiring skilled data analyst.
 - 🌱 Passionate about Excel, Power BI, Tableau, MySQL, and Python
 - 📫 How to reach me "https://www.linkedin.com/in/shivarathri-karthik-900095278/"
 
