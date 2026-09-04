@@ -124,6 +124,7 @@ A document question-answering application that allows users to upload PDF docume
 **Tech Stack:**  
 Python • LangChain • Chroma • Mistral Embeddings • Groq • Streamlit
 
+---
 
 ## 📊 End-to-End Machine Learning
 
@@ -131,6 +132,7 @@ An end-to-end machine learning project covering the complete ML lifecycle.
 
 ### Workflow
 
+```text
 Data Collection
       ↓
 Data Cleaning
