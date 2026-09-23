@@ -12,7 +12,7 @@ This interactive portfolio is built with **Streamlit** and showcases my professi
 
 🚀 **View My Portfolio**
 
-https://YOUR-STREAMLIT-APP-URL.streamlit.app/
+https://shivarathri-karthik-portfolio.streamlit.app/#shivarathri-karthik
 
 ---
 
