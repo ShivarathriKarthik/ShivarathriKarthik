@@ -717,7 +717,7 @@ with st.container(border=True):
         **Core Technologies**
 
         `LangGraph` `LangChain` `CrewAI` `AutoGen`
-        `Azure OpenAI` `GPT-4o` `Claude` `Gemini`
+        `Azure OpenAI` `GPT-5o` `Claude` `Gemini`
         `Llama` `RAG`
         """
     )
