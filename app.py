@@ -42,7 +42,7 @@ LINKEDIN_URL = "https://www.linkedin.com/in/shivarathri-karthik-900095278/"
 # If your file has a different name, change this line.
 # ============================================================
 
-PHOTO_PATH = r"C:\Users\shiva\Desktop\Rock Tech\Pratics\Daity Pratice\Streamlit portfolio\Passport Photo Karthik.jpg"
+PHOTO_PATH = r"Passport Photo Karthik.jpg"
 
 # ============================================================
 # RESUME
